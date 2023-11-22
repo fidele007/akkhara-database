@@ -1,2 +1,2 @@
-# akara-database
-Database files for Akara.
+# akkhara-database
+Database files for Akkhara dictionary app.
