@@ -1,0 +1,18 @@
+{
+	"New.Khmer.Dictionary.2022.sqlite": {
+		"displayName": "វចនានុក្រមខ្មែរ ២០២២",
+		"keywordLanguage": "km"
+	},
+	"En-Fr.Larousse.sqlite": {
+		"displayName": "Anglais-Français (Larousse)",
+		"keywordLanguage": "en"
+	},
+	"Fr-En.Larousse.sqlite": {
+		"displayName": "Français-Anglais (Larousse)",
+		"keywordLanguage": "fr"
+	},
+	"English.English.Wordnet.sqlite": {
+		"displayName": "English-English (Wordnet)",
+		"keywordLanguage": "en"
+	}
+}
